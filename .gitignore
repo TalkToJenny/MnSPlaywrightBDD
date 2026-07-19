@@ -1,0 +1,27 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# Playwright
+.playwright/
+**/.playwright/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store

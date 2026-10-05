@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RunSettings>
+
+	<TestRunParameters>
+
+		<Parameter name="Environment" value="tst" />
+		<Parameter name="browser" value="chrome" />
+		<Parameter name="headless" value="false" />
+
+		<Parameter name="siteUrl"
+				   value="https://www.marksandspencer.com/" />
+
+		<Parameter name="loginUsername"
+				   value="jennifer_chukwudum@yahoo.com" />
+
+		<Parameter name="loginPassword"
+				   value="Jenny@m&amp;s241" />
+
+	</TestRunParameters>
+
+</RunSettings>
